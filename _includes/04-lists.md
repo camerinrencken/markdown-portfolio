@@ -1,4 +1,4 @@
-*Chocolate
-*Dogs
-*Soccer
-*The beach
+-Chocolate
+-Dogs
+-Soccer
+-The beach
