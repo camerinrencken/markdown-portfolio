@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Puppy](https://cdn1-www.dogtime.com/assets/uploads/2011/03/puppy-development.jpg)
